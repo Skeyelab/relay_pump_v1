@@ -1,11 +1,7 @@
 #include <matrix_lcd_commands.h>
 #include <LiquidCrystal.h>
 #include <TKLCD.h>
-
 #include <Streaming.h>
-
-
-
 #include <SoftwareSerial.h>
 #include <serLCD.h>
 
